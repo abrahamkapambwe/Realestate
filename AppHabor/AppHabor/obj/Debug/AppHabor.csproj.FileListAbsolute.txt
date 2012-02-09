@@ -1,0 +1,5 @@
+C:\Users\Abraham\Realestate\Realestate\AppHabor\AppHabor\bin\AppHabor.dll
+C:\Users\Abraham\Realestate\Realestate\AppHabor\AppHabor\bin\AppHabor.pdb
+C:\Users\Abraham\Realestate\Realestate\AppHabor\AppHabor\obj\Debug\AppHabor.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Realestate\Realestate\AppHabor\AppHabor\obj\Debug\AppHabor.dll
+C:\Users\Abraham\Realestate\Realestate\AppHabor\AppHabor\obj\Debug\AppHabor.pdb
